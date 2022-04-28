@@ -1,0 +1,10 @@
+addcurrency GBP £ 1.10
+listcurrencies
+updateparity GBP 1.09
+listcurrencies
+addcurrency USD $ 0.82
+listcurrencies
+loadcsv amazon_co-ecommerce_cleaned.csv
+showproduct eac7efa5dbd3d667f26eb3d3ab504464
+listproductsbymanufacturer Hornby
+quit
